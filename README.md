@@ -28,14 +28,10 @@
 
 ### Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,javascript,html,css" />
-</p>
-
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,fastapi,python" />
+<img src="https://skillicons.dev/icons?i=ppython,django,fastapi,c,p5.js" />
 </p>
 
 ### Frontend
