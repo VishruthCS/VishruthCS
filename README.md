@@ -54,14 +54,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VishruthCS&theme=tokyonight"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
