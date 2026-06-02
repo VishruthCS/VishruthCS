@@ -31,7 +31,7 @@
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ppython,django,fastapi,c,p5.js" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,c,p5.js" />
 </p>
 
 ### Frontend
